@@ -1,0 +1,92 @@
+{
+  "firstname": "Marcel",
+  "lastname": "Rösler",
+  "email": "roesler1@gmx.de",
+  "github": "https://github.com/BelphegorPrime",
+  "twitter": "https://twitter.com/BelphegorPr1me",
+  "experiences": [
+    {
+      "from": "07/01/2005",
+      "to": "07/14/2005",
+      "location": "Praktikum bei der Kreissparkasse Aue-Schwarzenberg"
+    },
+    {
+      "from": "07/07/2006",
+      "to": "07/20/2006",
+      "location": "Praktikum bei der AWEBA Werkzeugbau Aue"
+    },
+    {
+      "from": "07/01/2010",
+      "to": "03/31/2011",
+      "location": "Zivildienst bei Pflegedienst Hephata"
+    },
+    {
+      "from": "04/01/2011",
+      "to": "06/30/2011",
+      "location": "verlängerter Zivildienst beim Deutschen Roten Kreuz"
+    },
+    {
+      "from": "07/01/2011",
+      "to": "09/30/2011",
+      "location": "Arbeitssuchend"
+    },
+    {
+      "from": "07/01/2013",
+      "to": "10/01/2015",
+      "location": "Mitglied in der  AG Dresdner Studentennetz",
+      "scopeOfWork": "Skript Anpassungen, Mitgliederbetreuung"
+    },
+    {
+      "from": "07/01/2014",
+      "to": "04/30/2015",
+      "location": "Studentische Hilfskraft Interaktion/biz",
+      "scopeOfWork": "Android Entwickler"
+    },
+    {
+      "from": "12/01/2014",
+      "to": "12/01/2015",
+      "location": "Gewählter Vertreter Fachschaftsrat Informatik",
+      "scopeOfWork": "Beratung von Studenten, Organisation von diversen Veranstaltungen"
+    },
+    {
+      "from": "10/01/2015",
+      "to": "07/04/2018",
+      "location": "Duale Ausbildung als Fachinformatiker für Anwendungsentwicklung bei Solongo"
+    },
+    {
+      "from": "07/05/2018",
+      "to": "today",
+      "location": "Fullstackdeveloper bei Solongo"
+    },
+    {
+      "from": "10/01/2012",
+      "to": "09/30/2015",
+      "location": "TU Dresden",
+      "scopeOfWork": "Studium Diplom Informatik"
+    },
+    {
+      "from": "10/01/2011",
+      "to": "09/30/2012",
+      "location": "TU Dresden",
+      "scopeOfWork": "Studium Mathematik"
+    },
+    {
+      "from": "01/09/2007",
+      "to": "01/06/2010",
+      "location": "Berufliches Schulzentrum für Wirtschaft und Sozialwesen Schwarzenberg",
+      "scopeOfWork": "Abitur"
+    },
+    {
+      "from": "01/01/2001",
+      "to": "01/07/2007",
+      "location": "Heinrich-Heine-Mittelschule Lauter",
+      "scopeOfWork": "Realschulabschluss"
+    },
+    {
+      "from": "01/01/1997",
+      "to": "01/01/2001",
+      "location": "Grundschule Lauter",
+      "scopeOfWork": "Grundschule"
+    }
+  ]
+}
